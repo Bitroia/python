@@ -1,0 +1,1 @@
+aluno1 = input('Nome do aluno 1: ')

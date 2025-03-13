@@ -1,0 +1,1 @@
+sorteio =int (ino)
